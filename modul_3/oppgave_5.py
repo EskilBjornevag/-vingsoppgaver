@@ -29,4 +29,6 @@ print(alder + 5 > antall_studenter)
 
 # --- Refleksjon ---
 # 5 og 6 ga forksjellige svar, fordi Michael er riktig i henold til variabelen.
-# = Er et sybol for å vise at noe har samme verdi, mens == viser 
+# = Er et symbol for å vise at noe har samme verdi, mens == sammenligner to verdier, for å se om de er like.
+# Jeg tror artmetisk opperatoren kjører først, slik at sammenligningsoperatoren har den ferdig verdien på begge sider først.
+# Jeg tror True og False er nyttig for å velge hva programmet skal gjøre videre iforhold til input fra brukerene.
